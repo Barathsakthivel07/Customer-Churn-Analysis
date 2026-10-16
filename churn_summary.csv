@@ -1,0 +1,16 @@
+segment,churn_rate_pct
+Overall,28.9
+Contract: Month-to-month,37.52212389380531
+Contract: Two year,19.78021978021978
+Contract: One year,16.205533596837945
+Payment: Mailed check,32.64462809917356
+Payment: Electronic check,32.365145228215766
+Payment: Credit card,28.35249042145594
+Payment: Bank transfer,22.65625
+Tenure: 0–12 months,40.0
+Tenure: 13–24 months,30.18867924528302
+Tenure: 25–48 months,29.673590504451035
+Tenure: 49+ months,23.35164835164835
+Support tickets: 0,19.767441860465116
+Support tickets: 1–2,29.14798206278027
+Support tickets: 3+,43.333333333333336
